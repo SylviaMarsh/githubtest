@@ -8,6 +8,7 @@
         <UseWinAuth>false</UseWinAuth>
         <WinAuthUserName />
         <WinAuthDomain />
+        <CreateDeploymentUtility>true</CreateDeploymentUtility>
         <UserIDs />
         <UserPasswords />
         <OfflineMode>false</OfflineMode>
